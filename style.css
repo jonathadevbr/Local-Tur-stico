@@ -28,6 +28,27 @@ section img {
     padding-top: 20px;
 }
 
-#templo-haedong-yonggungsa p + p{
+#negrito {
     font-weight: bold;
+}
+
+#historia-li {
+    color: #0C51A7;
+}
+
+#casais-li {
+    color: #591B98;
+}
+
+#familias-li {
+    color: #E5245E;
+}
+
+#orcamento-li {
+    color: #E95E10;
+}
+
+footer p {
+    font-size: 16px;
+    text-align: center;
 }
